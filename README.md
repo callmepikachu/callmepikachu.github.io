@@ -1,4 +1,1 @@
-# callmepikachu.github.io
-Learning lessons on the way.
-# Hello!
-## this is a nice try!
+# Click: [callmepikachu.github.io](https://callmepikachu.github.io/)
